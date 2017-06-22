@@ -1,6 +1,6 @@
 import java.util.Scanner;
  
-public class CamelCase {
+public class camelcase {
  
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
